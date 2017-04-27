@@ -202,7 +202,7 @@ h2 {
     position: absolute;
 }
 
-.gallery_landscape{
+.gallery_tall{
     margin: 20px;
     float: left;
     width:200px;
@@ -211,11 +211,11 @@ h2 {
     border: 2px solid white;
 }
 
-.gallery_landscape:hover {
+.gallery_tall:hover {
     border: 2px solid #777;
 }
 
-.gallery_landscape img{
+.gallery_tall img{
     width: 200px;
     height: auto;
     border: none;
